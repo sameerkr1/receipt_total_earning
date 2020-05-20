@@ -1,1 +1,4 @@
-
+Wand-use to convert pdf to image i.e in format of jpg or png etc
+OpenCv-helps in doing imagePreprocessing like cropping,contrast,reshaping,rotating in order to increase efficiency
+Pytesseract-use to extract text from image for NLP
+Spacy and Regex helps in Natural language processing 
